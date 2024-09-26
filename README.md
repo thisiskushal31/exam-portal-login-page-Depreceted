@@ -8,8 +8,8 @@ These instructions should get you a copy of the project up and running on your l
 
 # Prerequisites
 Things you need to get started:
-- Some necessory extentions, I used [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) or you can download anyone similar to this for *live preview* on the [marketplace](https://marketplace.visualstudio.com/).
-- A cool text editor, I recommend using [VSCode](https://code.visualstudio.com/download)
+- Some necessory extentions, I used [live server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer). You can download any similar extension for *live preview* on the [VS Code Marketplace](https://marketplace.visualstudio.com/).
+- A cool text editor, I recommend using [VSCode](https://code.visualstudio.com/download), but feel free to use the IDE which your comfertable with :)
 
 # Installing
 To get the project running, follow these steps:
